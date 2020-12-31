@@ -25,6 +25,7 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "gotrue-js": "^0.9.28",
     "sirv-cli": "^1.0.0"
   },
   "browserslist": "> 0.25%, not dead"
