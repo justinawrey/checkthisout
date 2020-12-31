@@ -36,7 +36,7 @@ export default {
   output: {
     sourcemap: !production,
     format: 'es',
-    name: 'checkthisout',
+    name: 'app',
     file: path.resolve('public', 'build', 'bundle-esm.mjs')
   },
   plugins: [
